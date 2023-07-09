@@ -1,0 +1,19 @@
+{
+    "bot_secret": "TOKEN",
+    "command_prefix": ".. ",
+    "byond_server": "ADDRESS:PORT",
+    "channels": [
+        {
+            "name": "CHANNEL",
+            "id": "ID"
+        }
+    ],
+    "webhooks": [
+        {
+            "name": "NAME",
+            "id": "ID",
+            "token": "TOKEN"
+        }
+    ],
+    "poly": "PATH/TO/POLY.json"
+}

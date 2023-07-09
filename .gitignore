@@ -1,0 +1,12 @@
+config/
+data/
+.vscode
+*.log
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
